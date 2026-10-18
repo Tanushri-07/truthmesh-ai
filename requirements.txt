@@ -1,0 +1,7 @@
+falkordb
+streamlit
+pandas
+plotly
+networkx
+pytest
+python-dotenv
